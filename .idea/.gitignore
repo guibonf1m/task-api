@@ -1,0 +1,10 @@
+# Configurações da IDE
+.idea/
+*.iml
+
+# Build do Maven
+/target/
+
+# Sistema
+.DS_Store
+*.log

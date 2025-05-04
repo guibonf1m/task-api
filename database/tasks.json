@@ -1,0 +1,25 @@
+[ {
+  "id" : 4,
+  "title" : "Segunda tarefa",
+  "description" : "Praticar programação em casa",
+  "deadline" : [ 2025, 5, 9 ],
+  "status" : "PENDENTE"
+}, {
+  "id" : 5,
+  "title" : "terceira tarefa",
+  "description" : "Praticar programação em casa",
+  "deadline" : [ 2025, 5, 10 ],
+  "status" : "PENDENTE"
+}, {
+  "id" : 2,
+  "title" : "Tarefa Exemplo",
+  "description" : "Descrição da tarefa 2",
+  "deadline" : [ 2025, 4, 30 ],
+  "status" : "CONCLUIDO"
+}, {
+  "id" : 1,
+  "title" : "Tarefa Exemplo",
+  "description" : "Descrição da tarefa 2",
+  "deadline" : [ 2025, 4, 30 ],
+  "status" : "CONCLUIDO"
+} ]
